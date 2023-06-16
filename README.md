@@ -1,3 +1,13 @@
+## Connecting to JSONPlaceholder API with Redux Toolkit and Query
+This project demonstrates how to connect to the JSONPlaceholder API using Redux Toolkit and Query. It builds upon the concept of connecting to APIs and includes a counter implemented with Redux.
+
+## Features
+Fetch data from the JSONPlaceholder API using Redux Toolkit and Query.
+Display the retrieved data in a React component.
+Utilize Redux for managing the counter state.
+Explore the Redux DevTools extension for monitoring state changes.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
